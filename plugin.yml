@@ -1,0 +1,7 @@
+name: RandomPvPTeleport
+version: 1.0
+main: me.renes.RandomPvPTeleport.RandomPvPTeleport
+api-version: 1.13
+commands:
+  randompvpteleport:
+  wild:

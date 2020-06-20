@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomPVPTeleport">
+    <output-path>$PROJECT_DIR$/out/artifacts/RandomPVPTeleport</output-path>
+    <root id="archive" name="RandomPVPTeleport.jar">
+      <element id="module-output" name="RandomPvPTeleport" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

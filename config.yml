@@ -1,0 +1,11 @@
+teleportinfo:
+  worldName: world
+  Xmin: -20000
+  Zmin: -20000
+  Xmax: 20000
+  Zmax: 20000
+  CenterX: 156
+  CenterZ: 220
+  minDistTeleport: 1500
+  message: "&2Teleported to a random location, be carefull"
+  cooldown: 5
